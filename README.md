@@ -20,6 +20,13 @@ Email Me 👉 ✉️ **anselfran06@gmail.com** For Collaboration/Project or Anyt
 ![](https://nirzak-streak-stats.vercel.app/?user=KennethAnsel&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!-- GIF Section -->
+<div align="center" style="margin-top: 20px; background: #121212; padding: 20px; border-radius: 10px; color: white; width: 100%; max-width: 1200px; margin: 20px auto;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxvcHg5bmFzczdiZWVpNm5vMDg5YmpqODB0OWE1NXBzMm4xNDRzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" 
+       style="width: 300px; border-radius: 10px; margin-bottom: 10px;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW80d2J0bnp6bmpxd3d4Mnl2MzFxZ3cxMXM1ejRhcHJuMWc2NjhoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kluzPOxBzGk4U/giphy.gif" 
+       alt="Coding Life" style="width: 300px; border-radius: 10px;">
+</div>
 
 
 ### ✍️ Random Dev Quote
