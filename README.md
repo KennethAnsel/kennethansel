@@ -1,36 +1,53 @@
+<!-- Header Banner -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" /> 
+</p>
+<!-- Typing Animation -->
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+Chat!;Salutation+fellow+Developers!;Open+Source+Enthusiast;Always+Learning+New+Things!" /> 
+</p>
+
 # 💫 Hi 👋, I'm Kenneth Ansel Francis
 Email Me 👉 ✉️ **anselfran06@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** anselfran06@gmail.com
 - 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** Your Everyday Niche and Nonchalant neighbourhood freindly humourous tech support
+- ⚡ **Fun fact:** Your Everyday niche and nonchalant Neighbourhood-Friendly Humorous Tech Support.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/rh7kF3KDJa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/freaky_afreaky) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/ansel-kenneth-francis-993514307?utm_source=share_via&utm_content=profile&utm_medium=member_android [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/71w9DDeFe) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ReactionNo2127) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anselfran06) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@freaky_afreaky)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anselfran06@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rh7kF3KDJa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/freaky_afreaky) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansel-kenneth-francis-993514307) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/71w9DDeFe) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ReactionNo2127) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anselfran06) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@freaky_afreaky)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anselfran06@gmail.com) 
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KennethAnsel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 🛠 Tech Stack 
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,git,github,vscode" /> </p>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KennethAnsel&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=KennethAnsel&theme=midnight-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- GIF Section -->
-<div align="center" style="margin-top: 20px; background: #121212; padding: 20px; border-radius: 10px; color: white; width: 100%; max-width: 1200px; margin: 20px auto;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxvcHg5bmFzczdiZWVpNm5vMDg5YmpqODB0OWE1NXBzMm4xNDRzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" 
-       style="width: 300px; border-radius: 10px; margin-bottom: 10px;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW80d2J0bnp6bmpxd3d4Mnl2MzFxZ3cxMXM1ejRhcHJuMWc2NjhoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kluzPOxBzGk4U/giphy.gif" 
-       alt="Coding Life" style="width: 300px; border-radius: 10px;">
-</div>
+<h2 align="center">🚀 Developer Workspace</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" alt="developer desk"/>
+</p>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">🕶️ Entering the Developer Matrix</h2>
+
+<p align="center">
+<img src="https://media.giphy.com/media/eIm624c8nnNbiG0V3g/giphy.gif" width="500">
+</p>
+
+<p align="center"><i>Scene from the movie "The Matrix" where Neo begins to understand the digital world.</i></p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KennethAnsel&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -38,4 +55,7 @@ Email Me 👉 ✉️ **anselfran06@gmail.com** For Collaboration/Project or Anyt
 ---
 [![](https://visitcount.itsvg.in/api?id=KennethAnsel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Footer --> 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=footer&animation=fadeIn"/>
+</p>
