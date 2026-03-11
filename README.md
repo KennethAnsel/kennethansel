@@ -8,7 +8,7 @@
 # 💖 Hi 🥀, I'm Kenneth Ansel Francis
 Email Me 👉 💌**anselfran06@gmail.com** For Collaboration/Project or Anything Else. 😝😭
 - 😈 **Ask me about:** Collaboration, Tech Support
-- 🧢 **Pronouns:** he/him
+- 🧢 **Pronouns:**(he/him)
 - 🐐 **Fun fact:** Your Everyday niche and nonchalant Neighbourhood-Friendly Humorous Tech Support.
 
 ## 🌐📱 Socials:
