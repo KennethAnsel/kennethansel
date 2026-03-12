@@ -19,14 +19,17 @@ Email Me 👉 💌**anselfran06@gmail.com** For Collaboration/Project or Anythin
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@freaky_afreaky)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anselfran06@gmail.com)
 
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KennethAnsel&label=Profile%20Views&color=blueviolet&style=flat"/>
+</p>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
-
-## 🏆🐐 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KennethAnsel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 🛠 👨🏿‍💻Tech Stack 
 <p align="center"> 
@@ -38,6 +41,13 @@ Email Me 👉 💌**anselfran06@gmail.com** For Collaboration/Project or Anythin
 ![](https://github-readme-stats.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=KennethAnsel&theme=midnight-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+ 
+## 📊📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KennethAnsel&bg_color=0d1117&color=c084fc&line=a855f7&point=f472b6&area=true&hide_border=true"/>
+</p>
 
 <!-- GIF Section -->
 <h2 align="center">🚀😻Developer Workspace</h2>
