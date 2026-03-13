@@ -6,10 +6,18 @@
 </p>
 
 # 💖 Hi 🥀, I'm Kenneth Ansel Francis
-Email Me 👉 💌**anselfran06@gmail.com** For Collaboration/Project or Anything Else. 😝😭
-- 😈 **Ask me about:** Collaboration, Tech Support
-- 🧢 **Pronouns:**he/him
+ 📌 About Me
+- Email  👉 💌**anselfran06@gmail.com** For Collaboration/Project or Anything Else. 😝😭
+- 🎓 BCA student @ Rajasthan University 
+- 😈 **Ask me about:** Tech Support,Server-side projects or scaling codebase efficiency.
+- 🧢 **Pronouns:**he/him • Male
+-  💻 Passionate about Tech: Refining DSA, backend logic, and open source.
 - 🐐 **Fun fact:** Your Everyday niche and nonchalant Neighbourhood-Friendly Humorous Tech Support.
+
+## 🧠 My Focus Areas
+- Web Development
+- DSA
+- Ai/ML
 
 ## 🌐📱 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rh7kF3KDJa) 
@@ -18,6 +26,10 @@ Email Me 👉 💌**anselfran06@gmail.com** For Collaboration/Project or Anythin
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anselfran06) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@freaky_afreaky)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anselfran06@gmail.com)
+
+
+
+
 
 ## 👀 Profile Views
 
@@ -53,14 +65,14 @@ Email Me 👉 💌**anselfran06@gmail.com** For Collaboration/Project or Anythin
 <h2 align="center">🚀😻Developer Workspace</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" alt="developer desk"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="developer desk"/>
 </p>
 
 
 <h2 align="center">🕶️ Entering the Developer Matrix</h2>
 
 <p align="center">
-<img src="https://media.giphy.com/media/eIm624c8nnNbiG0V3g/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/eIm624c8nnNbiG0V3g/giphy.gif" width="100%">
 </p>
 
 <p align="center"><i>Scene from the movie "The Ansel LIFE" where Kenneth begins to face the coding world.🤞🏿😭💀🥀</i></p>
