@@ -77,10 +77,13 @@
 
 <p align="center"><i>Scene from the movie "The Ansel LIFE" where Kenneth begins to face the coding world.🤞🏿😭💀🥀</i></p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<img height="60" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Spiderman relaxing"/>  
+<p>Kenneth Ansel Francis</p>
 ---
-<img height="60" src="https://raw.githubusercontent.com/ahkehra/ahkehra/main/assets/cat.gif" alt="Cat"/>
+
 
 <!-- Footer --> 
 <p align="center">
