@@ -4,14 +4,17 @@
 <!-- Typing Animation -->
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+Chat!;Salutation+fellow+Developers!;Open+Source+Enthusiast;Always+Learning+New+Things!" /> 
 </p>
+<h1 align="center">
+  💖 Hi 🥀, I'm Kenneth Ansel Francis 
+  <img height="30" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
+</h1>
 
-# 💖 Hi 🥀, I'm Kenneth Ansel Francis
- 📌 About Me
-- Email  👉 💌**anselfran06@gmail.com** For Collaboration/Project or Anything Else. 😝😭
-- 🎓 BCA student @ Rajasthan University 
-- 😈 **Ask me about:** Tech Support,Server-side projects or scaling codebase efficiency.
-- 🧢 **Pronouns:**he/him • Male
--  💻 Passionate about Tech: Refining DSA, backend logic, and open source.
+## 📌 About Me
+- Email  👉 💌**anselfran06@gmail.com** For Collaboration/Project or Anything Else. 😝😭 
+- 🎓 BCA student @ Rajasthan University
+- 😈 **Ask me about:** Tech Support, Server-side projects or scaling codebase efficiency.
+- 🧢 **Pronouns:** he/him • Male
+- 💻 Passionate about Tech: Refining DSA, backend logic, and open source.
 - 🐐 **Fun fact:** Your Everyday niche and nonchalant Neighbourhood-Friendly Humorous Tech Support.
 
 ## 🧠 My Focus Areas
@@ -19,15 +22,14 @@
 - DSA
 - Ai/ML
 
-## 🌐📱 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rh7kF3KDJa) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/freaky_afreaky) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansel-kenneth-francis-993514307) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anselfran06) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@freaky_afreaky)  
+ ### ✮ Reach Out to Me: 🌐📱
+[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:anselfran06@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rh7kF3KDJa)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/freaky_afreaky)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansel-kenneth-francis-993514307)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anselfran06)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@freaky_afreaky)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anselfran06@gmail.com)
-
-
 
 
 
@@ -71,6 +73,9 @@
 
 <p align="center"><i>Scene from the movie "The Ansel LIFE" where Kenneth begins to face the coding world.🤞🏿😭💀🥀</i></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/cat.gif" width="300"/>
+</p>
 <!-- Footer --> 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=footer&animation=fadeIn"/>
