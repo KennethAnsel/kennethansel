@@ -62,7 +62,7 @@
 </p>
 
 <!-- GIF Section -->
-<img height="60" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Blade Runner 2049 vibe"/>
+
 <h2 align="center">🕶️ Entering the Developer Matrix</h2>
 
 <p align="center">
@@ -71,10 +71,9 @@
 
 <p align="center"><i>Scene from the movie "The Ansel LIFE" where Kenneth begins to face the coding world.🤞🏿😭💀🥀</i></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img height="60" src="https://raw.githubusercontent.com/Kenneth/Kenneth/main/assets/cat.gif" alt="Cat"/>
+
+<img height="60" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/assets/cat.gif" alt="Cat"/>
 
 
 <!-- Footer --> 
