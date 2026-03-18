@@ -73,6 +73,10 @@
 
 <p align="center"><i>Scene from the movie "The Ansel LIFE" where Kenneth begins to face the coding world.🤞🏿😭💀🥀</i></p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/cat.gif" width="300"/>
 </p>
