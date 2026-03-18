@@ -70,7 +70,7 @@
 </p>
 
 <p align="center"><i>Scene from the movie "The Ansel LIFE" where Kenneth begins to face the coding world.🤞🏿😭💀🥀</i></p>
-<img height="60" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/assets/cat.gif" alt="Cat"/>
+
 <!-- Footer --> 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=footer&animation=fadeIn"/>
