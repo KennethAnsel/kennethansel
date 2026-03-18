@@ -62,13 +62,7 @@
 </p>
 
 <!-- GIF Section -->
-<h2 align="center">🚀😻Developer Workspace</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="developer desk"/>
-</p>
-
-
+<img height="60" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Blade Runner 2049 vibe"/>
 <h2 align="center">🕶️ Entering the Developer Matrix</h2>
 
 <p align="center">
@@ -80,9 +74,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img height="60" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Spiderman relaxing"/>  
-<p>Kenneth Ansel Francis</p>
----
+<img height="60" src="https://raw.githubusercontent.com/Kenneth/Kenneth/main/assets/cat.gif" alt="Cat"/>
 
 
 <!-- Footer --> 
