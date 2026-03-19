@@ -74,10 +74,16 @@
 </p>
 
 <!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/output/github-contribution-grid-snake-dark.svg?v=2" />
+  
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/output/github-contribution-grid-snake.svg?v=2" />
+  
+  <img alt="github-snake" 
+       src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/output/github-contribution-grid-snake.svg?v=2" />
+</picture>
 
 <h2 align="center">
   🛠 👨🏿‍💻 Tech Stack 
