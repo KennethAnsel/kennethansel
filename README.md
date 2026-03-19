@@ -11,7 +11,7 @@
 
 <h2 align="center">
   📌 About Me 
-  <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
+   <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
 </h2>
 
 <p align="left">
@@ -26,7 +26,7 @@
 </p>
 <h2 align="center">
   🧠 My Focus Areas 
-  <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
+ <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
 </h2>
 
 <ul>
@@ -35,10 +35,10 @@
   <li>🤖 AI / ML</li>
 </ul>
 
- <h3 align="center">
+ <h2 align="center">
    📱  Reach Out to Me
-  <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
-</h3>
+ <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
+</h2>
 
 <p align="center">
 
