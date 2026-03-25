@@ -104,7 +104,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KennethAnsel&theme=midnight-purple&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=KennethAnsel&theme=midnight-purple&hide_border=false" />
 </p>
 
 <p align="center">
