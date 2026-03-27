@@ -1,6 +1,9 @@
-<!-- Header Banner -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" /> 
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff41&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=00ff41&animation=fadeIn" />
 </p>
+
+
 <!-- Typing Animation -->
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1200&pause=400&color=00F7FF&center=true&vCenter=true&width=600&lines=Goodmorning!;and+in+case+i+don't+see+ya,;Goodafternoon,;Goodevening+and+Goodnight.;:-The+Truman+Show" /> 
 </p>
@@ -149,7 +152,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/cat.gif" width="300"/>
 </p>
-<!-- Footer --> 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=footer&animation=fadeIn"/>
-</p>
+
