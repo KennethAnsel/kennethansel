@@ -103,7 +103,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="center">
