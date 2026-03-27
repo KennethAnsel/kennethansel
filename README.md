@@ -152,4 +152,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/cat.gif" width="300"/>
 </p>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:001a00,100:000000&height=120&section=footer&animation=fadeIn"/>
+</p>
 
