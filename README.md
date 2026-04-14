@@ -102,19 +102,22 @@
   <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
 </h2>
 
+<!-- GitHub Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" 
     alt="GitHub Stats" 
   />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KennethAnsel&theme=midnight-purple&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=KennethAnsel&theme=midnight-purple&hide_border=false&cache_seconds=86400" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=86400" />
 </p>
 <h2 align="center">
   📊📈 GitHub Activity Graph 
