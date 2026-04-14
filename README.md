@@ -104,7 +104,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&show_icons=true" 
     alt="GitHub Stats" 
   />
 </p>
@@ -114,7 +114,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&layout=compact" />
 </p>
 <h2 align="center">
   📊📈 GitHub Activity Graph 
