@@ -105,19 +105,17 @@
 <!-- GitHub Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&show_icons=true&cache_seconds=86400" 
+    src="https://github-readme-stats.demolab.com/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&show_icons=true&cache_seconds=86400" 
     alt="GitHub Stats" 
   />
 </p>
-
 <!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=KennethAnsel&theme=midnight-purple&hide_border=false&cache_seconds=86400" />
 </p>
-
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&layout=compact&cache_seconds=86400" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&layout=compact&cache_seconds=86400" />
 </p>
 <h2 align="center">
   📊📈 GitHub Activity Graph 
